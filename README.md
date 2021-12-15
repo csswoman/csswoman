@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![GITHUB](http://img.shields.io/badge/-Github-8787ff?style=flat&logo=github&logoColor=white)
 ![VISUALSTUDIO](http://img.shields.io/badge/-VS%20Code-8787ff?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![BOOTSTRAP](http://img.shields.io/badge/-Bootstrap-8787ff?style=flat&logo=bootstrap&logoColor=white)
+
+[![Karla Agraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=csswoman&theme=cobalt)](https://github.com/csswoman/github-readme-stats)
