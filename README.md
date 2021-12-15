@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**csswoman/csswoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <ul>
  <li>👩🏻‍💻 Web UI Developer</li>
  <li>🎨 I like to do things with design and code</li>
  <li>🎮 Gamer</li>
 </ul>
--->
 
 ### Tech & Tools
 
