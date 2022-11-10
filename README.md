@@ -140,4 +140,4 @@
  </p>
 
 ### 📙 Most Used Languages
-[![Karla Agraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=csswoman&show_icons=true&theme=outrun)](https://github.com/csswoman/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csswoman&layout=compact&theme=radical)
