@@ -31,42 +31,6 @@
 
 ### 💻  Technologies
 <p align="left" dir="auto">
-   <a href="https://reactjs.org/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-  <a href="https://getbootstrap.com" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-      alt="express"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -76,7 +40,43 @@
       style="max-width: 100%"
     />
   </a>
-  <a
+    <a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+    <a href="https://tailwindcss.com/" rel="nofollow">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      alt="express"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+    <a href="https://sass-lang.com" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+    <a href="https://getbootstrap.com" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
+    <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     rel="nofollow"
   >
@@ -88,19 +88,19 @@
       style="max-width: 100%"
     />
   </a>
-  <a href="https://sass-lang.com" rel="nofollow">
+    <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
       style="max-width: 100%"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" rel="nofollow">
+   <a href="https://reactjs.org/" rel="nofollow">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
       width="40"
       height="40"
       style="max-width: 100%"
@@ -110,6 +110,15 @@
 
 ### 🔨  Tools:
 <p align="left" dir="auto">
+    <a href="https://www.figma.com/" rel="nofollow">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      alt="figma"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
     <a href="https://code.visualstudio.com/" rel="nofollow">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
@@ -128,16 +137,7 @@
       style="max-width: 100%"
     />
   </a>
-    <a href="https://www.figma.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-      alt="figma"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
  </p>
 
 ### 📙 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api?username=csswoman&show_icons=true&theme=outrun)](https://github.com/csswoman/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=csswoman&show_icons=true&theme=outrun)]
