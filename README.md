@@ -6,6 +6,7 @@
 - 👩🏽‍💻 I started as a developer in 2020
 - 🎨 I like to do things with design and code
 - 🎮 Big fan of videogames, my favorite are Genshin Impact and League of Legends
+- 🔮 Ask me about whatever you want. I am interested in helping and sharing.
 
 ### 🔎   Find me at:
   <a href="https://dev.to/csswoman" rel="nofollow">
@@ -141,3 +142,7 @@
 
 ### 📙 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csswoman&layout=compact&theme=outrun)
+
+<p align="center">
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=csswoman.csswoman" />
+</p>
