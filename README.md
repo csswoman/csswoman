@@ -30,7 +30,7 @@
 <br/>
 
 
-### 💻  Technologies
+### 💻  Some technologies I use:
 <p align="left" dir="auto">
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img
