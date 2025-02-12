@@ -52,8 +52,8 @@
   </a>
     <a href="https://tailwindcss.com/" rel="nofollow">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-      alt="express"
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
+      alt="tailwind css"
       width="40"
       height="40"
       style="max-width: 100%"
