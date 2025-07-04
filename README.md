@@ -1,12 +1,13 @@
-### Hi there, I'm Karla Agraz 👋
+## 🌌 Hi, I'm Karla — UX Engineer & Frontend Developer
 
 ![catgif](https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif)
 
-## 🦄 I'm a UX Engineer
-- 👩🏽‍💻 I started as a developer in 2020
-- 🎨 I like to do things with design and code
-- 🎮 Big fan of videogames, my favorite are Genshin Impact and League of Legends
-- 🔮 Ask me about whatever you want. I am interested in helping and sharing.
+- 👩🏽‍💻 I started my journey into web development in 2020 and never stopped learning since.  
+- 🎨 I build accessible, responsive, and pixel-perfect interfaces that bring design to life through clean, scalable code.  
+- 🧩 I love combining creativity and logic — from wireframes to working components.  
+- 🎮 Video games inspire me with their interfaces, storytelling, and interaction design.  
+- 🔮 Always happy to collaborate, share ideas, and help others grow in tech. Feel free to reach out!
+- ✨ aka **csswoman**
 
 ### 🔎   Find me at:
   <a href="https://dev.to/csswoman" rel="nofollow">
