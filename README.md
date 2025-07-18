@@ -32,114 +32,35 @@
 
 
 ### 💻  Some technologies I use:
-<p align="left" dir="auto">
-  <a href="https://www.w3.org/html/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://www.w3schools.com/css/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://tailwindcss.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
-      alt="tailwind css"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://sass-lang.com" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://getbootstrap.com" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    rel="nofollow"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://www.typescriptlang.org/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-   <a href="https://reactjs.org/" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-</p>
-
-### 🔨  Tools:
-<p align="left" dir="auto">
-    <a href="https://www.figma.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-      alt="figma"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://code.visualstudio.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
-      alt="vscode"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-  <a href="https://git-scm.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
-      alt="git"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
- </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
 
 ### 📈  Some of my stats are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csswoman&layout=compact&theme=outrun)
