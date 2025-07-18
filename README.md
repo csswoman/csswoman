@@ -1,4 +1,4 @@
-##<img src="./assets/waving-hand.webp" width="4%"> Hi, I'm Karla — UX Engineer & Frontend Developer <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> Hi, I'm Karla — UX Engineer & Frontend Developer
 
 ![catgif](https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif)
 
