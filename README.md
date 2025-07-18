@@ -1,15 +1,16 @@
-## 🌌 Hi, I'm Karla — UX Engineer & Frontend Developer
+## Hi, I'm Karla — UX Engineer & Frontend Developer <img src="./assets/waving-hand.webp" width="4%">
 
 ![catgif](https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif)
 
-- 👩🏽‍💻 I started my journey into web development in 2020 and never stopped learning since.  
-- 🎨 I build accessible, responsive, and pixel-perfect interfaces that bring design to life through clean, scalable code.  
-- 🧩 I love combining creativity and logic — from wireframes to working components.  
-- 🎮 Video games inspire me with their interfaces, storytelling, and interaction design.  
+- 👩🏽‍💻 I started my journey into web development in 2020 and never stopped learning since.
+- 🎨 I build accessible, responsive, and pixel-perfect interfaces that bring design to life through clean, scalable code.
+- 🧩 I love combining creativity and logic — from wireframes to working components.
+- 🎮 Video games inspire me with their interfaces, storytelling, and interaction design.
 - 🔮 Always happy to collaborate, share ideas, and help others grow in tech. Feel free to reach out!
 - ✨ aka **csswoman**
 
-### 🔎   Find me at:
+### 🔎 Find me at:
+
   <a href="https://dev.to/csswoman" rel="nofollow">
     <img
       src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
@@ -30,8 +31,8 @@
   </a>
 <br/>
 
+### 💻 Some technologies I use:
 
-### 💻  Some technologies I use:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -62,8 +63,10 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-### 📈  Some of my stats are:
+### 📈 Some of my stats are:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csswoman&layout=compact&theme=outrun)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=csswoman&theme=outrun&custom_title=streak-stats&hide_border=false&layout=compact" />
 
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=csswoman.csswoman" />
