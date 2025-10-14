@@ -1,35 +1,43 @@
-## <img src="./assets/waving-hand.webp" width="4%"> Hi, I'm Karla — UX Engineer & Frontend Developer
+## <img src="./assets/waving-hand.webp" width="4%"> Hey there! I’m Karla — UX Engineer & Frontend Developer
 
 ![catgif](https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif)
 
-- 👩🏽‍💻 I started my journey into web development in 2020 and never stopped learning since.
-- 🎨 I build accessible, responsive, and pixel-perfect interfaces that bring design to life through clean, scalable code.
-- 🧩 I love combining creativity and logic — from wireframes to working components.
-- 🎮 Video games inspire me with their interfaces, storytelling, and interaction design.
-- 🔮 Always happy to collaborate, share ideas, and help others grow in tech. Feel free to reach out!
-- ✨ aka **csswoman**
+A web developer who transforms ideas into interactive, accessible, and scalable experiences.
 
-### 🔎 Find me at:
+💻 I started my journey into web development in 2020 and haven’t stopped learning since. I’m passionate about the intersection of design and code, where creativity meets structure.
 
-  <a href="https://dev.to/csswoman" rel="nofollow">
-    <img
-      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-      alt="dev.to"
-      width="98"
-      height="28"
-      style="max-width: 100%"
-    />
-  </a>
-    <a href="https://www.linkedin.com/in/csswoman/" rel="nofollow">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"
-      width="111"
-      height="28"
-      style="max-width: 100%"
-    />
-  </a>
-<br/>
+🎨 I craft pixel-perfect, responsive, and inclusive interfaces that feel as good as they look — bringing design systems to life with React, TailwindCSS, and a strong eye for detail.
+
+🧠 I love solving complex UI puzzles and turning wireframes into dynamic, maintainable components. My approach blends clean architecture, micro-interactions, and meaningful motion.
+
+🎮 Video games inspire me — not just for fun, but for their storytelling, interfaces, and emotional design. They remind me that good UX tells a story.
+
+🤝 Collaboration fuels me. I believe in sharing knowledge, helping others grow, and contributing to projects that make the web more beautiful and accessible for everyone.
+
+🧩 What I’m focusing on
+
+Building modern frontends with React, Next.js & TailwindCSS
+
+Exploring web animations and micro-interactions
+
+Learning about SEO, UX strategy, and digital product design
+
+Expanding my personal project — CSSWoman Studio, a creative space for web development and design
+
+⚙️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript (ES6+), React, Next.js, TailwindCSS
+Design: Figma
+Other Tools: Git, Vercel
+Currently Exploring: Accessibility (a11y), Animations (Framer Motion), SEO
+
+🌈 Beyond Code
+
+🪩 Creating designs that dance with code.
+📚 Constantly learning, documenting, and improving.
+💌 Open to collaborations, mentorships, and cool frontend projects.
+
+📫 Reach me on <a href="https://www.linkedin.com/in/csswoman/" rel="nofollow">LinkedIn</a> or send me a digital “hey” — I’d love to connect.
 
 ### 💻 Some technologies I use:
 
