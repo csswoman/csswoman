@@ -24,10 +24,7 @@ Expanding my personal project — CSSWoman Studio, a creative space for web deve
 
 ⚙️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript (ES6+), React, Next.js, TailwindCSS
-Design: Figma
-Other Tools: Git, Vercel
-Currently Exploring: Accessibility (a11y), Animations (Framer Motion), SEO
+Frontend: HTML, CSS, JavaScript (ES6+), React, Next.js, TailwindCSS</br>
 
 🌈 Beyond Code
 
