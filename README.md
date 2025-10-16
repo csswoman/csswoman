@@ -1,7 +1,5 @@
 ## <img src="./assets/waving-hand.webp" width="4%"> Hey there! I’m Karla — UX Engineer & Frontend Developer
 
-![catgif](https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif)
-
 A web developer who transforms ideas into interactive, accessible, and scalable experiences.
 
 💻 I started my journey into web development in 2020 and haven’t stopped learning since. I’m passionate about the intersection of design and code, where creativity meets structure.
