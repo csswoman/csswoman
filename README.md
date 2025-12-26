@@ -1,40 +1,73 @@
-## <img src="./assets/waving-hand.webp" width="4%"> Hey there! I’m Karla — UX Engineer & Frontend Developer
+## <img src="./assets/waving-hand.webp" width="4%"> Hey there! I’m Karla  
+### UX Engineer · Frontend Developer
 
-A web developer who transforms ideas into interactive, accessible, and scalable experiences.
+I design and build **thoughtful, accessible, and scalable web experiences**, where design and code work as one.
 
-💻 I started my journey into web development in 2020 and haven’t stopped learning since. I’m passionate about the intersection of design and code, where creativity meets structure.
+---
 
-🎨 I craft pixel-perfect, responsive, and inclusive interfaces that feel as good as they look — bringing design systems to life with React, TailwindCSS, and a strong eye for detail.
+### 👩‍💻 About me
 
-🧠 I love solving complex UI puzzles and turning wireframes into dynamic, maintainable components. My approach blends clean architecture, micro-interactions, and meaningful motion.
+I started my journey in web development in **2020**, and since then I’ve been continuously learning, building, and refining my craft. I thrive at the intersection of **UX, UI, and frontend engineering**, turning ideas and wireframes into polished, high-quality products.
 
-🎮 Video games inspire me — not just for fun, but for their storytelling, interfaces, and emotional design. They remind me that good UX tells a story.
+I care deeply about **pixel-perfect execution**, responsive layouts, and inclusive design. I enjoy bringing design systems to life using **React, TailwindCSS**, and modern frontend practices — always with attention to detail, performance, and maintainability.
 
-🤝 Collaboration fuels me. I believe in sharing knowledge, helping others grow, and contributing to projects that make the web more beautiful and accessible for everyone.
+---
 
-🧩 What I’m focusing on
+### 🧠 How I work
 
-Building modern frontends with React, Next.js & TailwindCSS
+- I love solving **complex UI problems** and breaking them down into clean, reusable components  
+- I blend **clean architecture, micro-interactions, and meaningful motion**  
+- I focus on building interfaces that feel intuitive, fluid, and human  
+- I believe great UX is invisible — but deeply felt  
 
-Exploring web animations and micro-interactions
+---
 
-Learning about SEO, UX strategy, and digital product design
+### 🎮 Inspiration
 
-Expanding my personal project — CSSWoman Studio, a creative space for web development and design
+Video games inspire me beyond entertainment — through their **storytelling, emotional design, and interfaces**. They constantly remind me that great UX is about guiding users through a story, not just screens.
 
-⚙️ Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript (ES6+), React, Next.js, TailwindCSS</br>
+### 🤝 Collaboration & mindset
 
-🌈 Beyond Code
+Collaboration fuels my growth. I value:
+- Clear communication  
+- Knowledge sharing  
+- Helping teams and individuals grow  
 
-🪩 Creating designs that dance with code. </br>
-📚 Constantly learning, documenting, and improving. </br>
-💌 Open to collaborations, mentorships, and cool frontend projects. 
+I enjoy working on projects that make the web **more beautiful, accessible, and intentional**.
 
-📫 Reach me on <a href="https://www.linkedin.com/in/csswoman/" rel="nofollow">LinkedIn</a> or send me a digital “hey” — I’d love to connect.
+---
 
+### 🧩 What I’m focusing on now
+
+- Building modern frontends with **React, Next.js & TailwindCSS**  
+- Exploring **web animations & micro-interactions**  
+- Learning more about **SEO, UX strategy, and digital product design**  
+- Growing my personal project: **CSSWoman Studio** — a creative space for frontend & design exploration  
+
+---
+
+### ⚙️ Tech Stack
+
+**Frontend**  
+HTML · CSS · JavaScript (ES6+) · React · Next.js · TailwindCSS  
+
+---
+
+### 🌈 Beyond code
+
+🪩 Creating designs that dance with code  
+📚 Constantly learning, documenting, and improving  
+💌 Open to collaborations, mentorships, and cool frontend projects  
+
+---
+
+### 📫 Let’s connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/csswoman/)  
+or send me a digital “hey” — I’d love to connect 💬
 
 <p align="center">
-  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=csswoman.csswoman" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=csswoman.csswoman" />
 </p>
