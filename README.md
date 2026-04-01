@@ -1,6 +1,7 @@
 <img src="./assets/waving-hand.webp" width="4%"> Hey there! I'm Karla
 UX Engineer · Frontend Developer
 I design and build thoughtful, accessible, and scalable web experiences — where design and code speak the same language.
+<br/>
 
 👩‍💻 About me
 My journey in web development started in 2020, and since then I've been learning, building, and sharpening my craft with intention. I live at the intersection of UX, UI, and frontend engineering — turning ideas and wireframes into polished, production-ready products.
