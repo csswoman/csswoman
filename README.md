@@ -1,4 +1,5 @@
-<img src="./assets/waving-hand.webp" width="4%"> Hi, I'm Karla  
+<img src="./assets/waving-hand.webp" width="4%"> 
+## Hi, I'm Karla  
 **UX Engineer · Frontend Developer**
 
 I design and build accessible, scalable, and high-quality web experiences — where design and code speak the same language.
