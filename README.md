@@ -1,4 +1,6 @@
-<img src="./assets/waving-hand.webp" width="3%"> Hi, I'm Karla — UX Engineer & Frontend Developer 
+<img src="./assets/waving-hand.webp" width="3%"> Hi, I'm Karla — UX Engineer & Frontend Developer
+
+
 I build web experiences where design and engineering meet with precision. Focused on accessible, performant, and production-ready interfaces — from component architecture to interaction design.
 
 What I do
