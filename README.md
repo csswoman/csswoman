@@ -1,109 +1,95 @@
-<img src="./assets/waving-hand.webp" width="3%">  
-# Hi, I'm Karla — UX Engineer & Frontend Developer
+<p>
+  <img src="./assets/waving-hand.webp" width="20" />
+</p>
 
-I build web experiences where **design and engineering meet with precision**.  
-Focused on **accessible, performant, and production-ready interfaces** — from component architecture to interaction design.
+<h1>Hi, I'm Karla — UX Engineer & Frontend Developer</h1>
 
----
+<p>
+I build web experiences where <strong>design and engineering meet with precision</strong>.<br>
+Focused on <strong>accessible, performant, and production-ready interfaces</strong> — from component architecture to interaction design.
+</p>
 
-## ✨ What I do
+<hr>
 
-Frontend developer since 2020. I work at the intersection of **design systems, UI engineering, and product thinking** — translating ideas into polished, scalable interfaces.
+<h2>✨ What I do</h2>
 
-I care deeply about:
+<p>
+Frontend developer since 2020. I work at the intersection of <strong>design systems, UI engineering, and product thinking</strong> — translating ideas into polished, scalable interfaces.
+</p>
 
-- **Accessible UI** — building for everyone, by default  
-- **Design–code coherence** — components that honor the design intent  
-- **Performance and maintainability** — code that's easy to own long-term  
-- **Interaction quality** — micro-interactions that serve the experience, not decorate it  
+<ul>
+  <li><strong>Accessible UI</strong> — building for everyone, by default</li>
+  <li><strong>Design–code coherence</strong> — components that honor the design intent</li>
+  <li><strong>Performance and maintainability</strong> — code that's easy to own long-term</li>
+  <li><strong>Interaction quality</strong> — micro-interactions that serve the experience, not decorate it</li>
+</ul>
 
----
+<hr>
 
-## 🚧 Currently building
+<h2>🚧 Currently building</h2>
 
-### 🧠 English Journal
-A personal English learning web app with:
-- AI-assisted conversation sessions  
-- Vocabulary management  
-- Pronunciation practice  
-- Spaced repetition  
+<h3>🧠 English Journal</h3>
+<p>
+A personal English learning web app with AI-assisted conversation, vocabulary management, pronunciation practice, and spaced repetition.<br>
+Built with <strong>Next.js, Supabase, and Gemini API</strong>.
+</p>
 
-Built with **Next.js, Supabase, and Gemini API**.  
-Small but real user base; focused on **usability over growth metrics**.
+<h3>💬 AI English Coach</h3>
+<p>
+A chat-based English tutor with a strong UX focus: thoughtful empty states, suggestion chips, smooth conversation flow, and clean voice/text input.
+</p>
 
----
+<h3>🎨 CSSWoman Studio</h3>
+<p>
+A design and development studio project exploring CSS, animation, and creative frontend work.
+</p>
 
-### 💬 AI English Coach
-A chat-based English tutor focused on UX:
-- Thoughtful empty states  
-- Suggestion chips  
-- Smooth conversation flow  
-- Clean voice/text input experience  
+<hr>
 
----
+<h2>🧰 Stack</h2>
 
-### 🎨 CSSWoman Studio
-A design and development studio project exploring:
-- Advanced CSS  
-- Animation  
-- Creative frontend work  
+<p><strong>Core:</strong> HTML · CSS · JavaScript · TypeScript</p>
+<p><strong>Framework:</strong> React · Next.js · TailwindCSS</p>
+<p><strong>Backend & Data:</strong> Supabase · PostgreSQL · RLS</p>
+<p><strong>AI:</strong> Gemini API</p>
+<p><strong>Design:</strong> Figma · Design Systems · Motion</p>
+<p><strong>Testing:</strong> Vitest · React Testing Library · Playwright</p>
 
----
+<hr>
 
-## 🧰 Stack
+<h2>🧠 Approach</h2>
 
-**Core**  
-HTML · CSS · JavaScript (ES6+) · TypeScript  
+<p>
+I simplify complex UI problems into clean, reusable components. I think in systems — not just screens.
+</p>
 
-**Framework**  
-React · Next.js · TailwindCSS  
+<ul>
+  <li>Domain-driven state management</li>
+  <li>Component API design</li>
+  <li>Accessibility from the start</li>
+  <li>UX that feels considered, not assembled</li>
+</ul>
 
-**Backend & Data**  
-Supabase · PostgreSQL · RLS  
+<blockquote>
+Great interfaces don't announce themselves. They just work.
+</blockquote>
 
-**AI Integration**  
-Gemini API (text + TTS)  
+<hr>
 
-**Design**  
-Figma · Design Systems · Motion & Animation  
+<h2>🤝 Open to</h2>
 
-**Testing**  
-Vitest · React Testing Library · Playwright  
+<p>
+Collaborations on meaningful frontend projects, design systems, or AI-powered interfaces.
+</p>
 
----
+<hr>
 
-## 🧠 Approach
+<h2>📬 Contact</h2>
 
-I simplify complex UI problems into **clean, reusable components**.  
-I think in **systems — not just screens**.
-
-Architecture decisions I care about:
-- Domain-driven state management  
-- Component API design  
-- Accessibility from the start  
-- UX that feels **considered rather than assembled**  
-
-> Great interfaces don't announce themselves. They just work.
-
----
-
-## 🤝 Open to
-
-Collaborations on:
-- Meaningful frontend projects  
-- Design system work  
-- AI-powered product interfaces  
-
-Clear communication and shared standards matter more to me than stack alignment.
-
----
-
-## 📬 Contact
-
-Find me on [LinkedIn](https://www.linkedin.com/in/csswoman/)  
-or visit → https://www.csswoman.com/
-
----
+<p>
+<a href="https://www.linkedin.com/in/csswoman/">LinkedIn</a><br>
+https://www.csswoman.com/
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=csswoman.csswoman" />
