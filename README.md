@@ -1,27 +1,12 @@
-<h1>Hi, I'm Karla — Frontend / UI Engineer</h1>
+# Hi, I'm Karla — Frontend / UI Engineer
 
-<p>
-I build clear, usable interfaces for real products.
-My work sits between <strong>frontend engineering, UI, and product</strong>,
-with a focus on usability, maintainable code, and complete user flows.
-</p>
+I build clear, usable interfaces and the frontend systems behind them.  
+I care about usability, maintainable code, and how a product works from one step to the next.
 
-<p>
-I've been building for the web since 2019, with experience in
-<strong>travel and corporate gifting software</strong>.
-I'm currently expanding into backend, application architecture, and AI-assisted development.
-</p>
+I've been building for the web since 2019, with experience in **travel and corporate gifting software**. I'm also expanding into backend and application architecture, using AI as part of my daily development workflow.
 
-<p>
-<strong>React · Next.js · TypeScript · Tailwind · Supabase · PostgreSQL</strong>
-</p>
+**React · Next.js · TypeScript · Tailwind · Supabase · PostgreSQL**
 
-<blockquote>
-Clear interfaces are part of the functionality.
-</blockquote>
+> Clear interfaces are part of the functionality.
 
-<p>
-  <a href="https://www.linkedin.com/in/csswoman/">LinkedIn</a>
-  ·
-  <a href="https://www.csswoman.com/">Portfolio</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/csswoman/) · [Portfolio](https://www.csswoman.com/)
