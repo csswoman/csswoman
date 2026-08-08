@@ -2,11 +2,11 @@
   <img src="./assets/waving-hand.webp" width="20" alt="Waving hand emoji" />
 </p>
 
-<h1>Hi, I'm Karla — UX Engineer & Frontend Developer</h1>
+<h1>Hi, I'm Karla — Frontend / UI Engineer</h1>
 
 <p>
-I build web experiences where <strong>design and engineering meet with precision</strong>.<br>
-Focused on <strong>accessible, performant, and production-ready interfaces</strong> — from component architecture to interaction design.
+I build clear, usable interfaces for real products.<br>
+My work sits between <strong>frontend engineering, UI, and product</strong> — from individual interactions to complete flows and the systems behind them.
 </p>
 
 <p>
@@ -19,62 +19,98 @@ Focused on <strong>accessible, performant, and production-ready interfaces</stro
 
 <hr>
 
-<h2>✨ What I do</h2>
+<h2>What I do</h2>
+
 <p>
-Frontend developer since 2020, working at the intersection of <strong>design systems, UI engineering, and product thinking</strong>. I think in systems, not just screens — turning ideas into interfaces that are accessible by default, easy to own long-term, and considered down to the smallest interaction.
+I've been building for the web since 2019, mostly on the frontend.
+I've worked on production software in <strong>travel and corporate gifting</strong>, including booking flows, catalogs, checkout experiences, internal tools, and reusable UI.
 </p>
+
+<p>
+I care about what happens between one screen and the next: how a flow is structured, what the user needs to understand, and how the frontend can make that process simpler.
+</p>
+
 <ul>
-  <li><strong>Accessible UI</strong> — building for everyone, by default</li>
-  <li><strong>Design–code coherence</strong> — components that honor the design intent</li>
-  <li><strong>Domain-driven architecture</strong> — clean separation of logic and UI, component APIs that scale</li>
-  <li><strong>Interaction quality</strong> — micro-interactions that serve the experience, not decorate it</li>
+  <li><strong>UI engineering</strong> — clear, responsive, accessible interfaces</li>
+  <li><strong>Product flows</strong> — thinking beyond isolated screens</li>
+  <li><strong>Frontend architecture</strong> — reusable components, sensible boundaries, maintainable code</li>
+  <li><strong>Usability</strong> — reducing friction and making interactions easier to understand</li>
 </ul>
 
 <blockquote>
-Great interfaces don't announce themselves. They just work.
+Clear interfaces are part of the functionality.
 </blockquote>
 
 <hr>
 
-<h2>🚧 Currently building</h2>
+<h2>Currently building</h2>
 
-<h3>🎨 Craftie</h3>
+<h3>English Journal</h3>
+
 <p>
-An OKLCH-based color and type companion: mood/image-driven palette generation, WCAG accessibility testing, font-pairing recommendations, and brand guideline export. Built as both a portfolio piece and a real design utility.
+A personal English-learning platform built around spaced repetition, structured content, vocabulary practice, phonetics, pronunciation, and progress tracking.
 </p>
 
-<h3>🧠 English Journal</h3>
 <p>
-A personal English learning web app with AI-assisted conversation, vocabulary management, pronunciation practice (phoneme-level, HVPT-based), and spaced repetition (SM-2).<br>
-Built with <strong>Next.js, Supabase, Dexie, and the Gemini API</strong>.
+It also includes AI-assisted conversation and pronunciation exercises using Gemini.
+The project has become my main playground for exploring <strong>Supabase, backend development, application architecture, and larger product decisions</strong>.
 </p>
 
-<h3>🖼️ SVGify</h3>
 <p>
-A browser-only SVG vectorization tool — image tracing entirely client-side via a Web Worker, no server, no uploads. Built with <strong>Next.js</strong> and a strong focus on security and adapter-isolated architecture.
+Built with <strong>Next.js, TypeScript, Supabase, Dexie, and the Gemini API</strong>.
+</p>
+
+<h3>Craftie</h3>
+
+<p>
+A color and typography tool for exploring palettes, accessibility, font pairings, and lightweight brand systems.
+It uses OKLCH color spaces, WCAG contrast checks, and image-based palette generation.
+</p>
+
+<h3>SVGify</h3>
+
+<p>
+A browser-based SVG vectorization tool that processes images entirely on the client using Web Workers — no uploads and no server-side image processing.
+</p>
+
+<p>
+Built with <strong>Next.js and TypeScript</strong>, with an emphasis on clear architecture and keeping browser-specific logic isolated.
 </p>
 
 <hr>
 
-<h2>🧰 Stack</h2>
+<h2>Stack</h2>
 
 <p><strong>Core</strong> — HTML · CSS · JavaScript · TypeScript</p>
 <p><strong>Frontend</strong> — React · Next.js · Tailwind CSS</p>
 <p><strong>Backend & Data</strong> — Supabase · PostgreSQL · Row-Level Security</p>
-<p><strong>AI</strong> — Gemini API · Claude</p>
-<p><strong>Design</strong> — Figma · Design Systems · Motion</p>
 <p><strong>Testing</strong> — Vitest · React Testing Library · Playwright</p>
+<p><strong>Tools</strong> — Git · Figma · Claude · Gemini</p>
 
 <hr>
 
-<h2>🤝 Open to</h2>
+<h2>What I'm exploring</h2>
+
 <p>
-Collaborations on meaningful frontend projects, design systems, or AI-powered interfaces.
+I'm gradually expanding beyond the frontend into <strong>backend development, application architecture, and React Native</strong>.
+</p>
+
+<p>
+AI is also part of my daily development workflow for implementation, debugging, research, and prototyping. I'm interested in using it where it genuinely improves the product rather than treating it as the product itself.
 </p>
 
 <hr>
 
-<h2>📬 Contact</h2>
+<h2>Open to</h2>
+
+<p>
+Frontend and UI engineering roles where I can work close to the product, solve real interface problems, and contribute beyond isolated tickets.
+</p>
+
+<hr>
+
+<h2>Contact</h2>
+
 <p>
   <a href="https://www.linkedin.com/in/csswoman/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -82,8 +118,4 @@ Collaborations on meaningful frontend projects, design systems, or AI-powered in
   <a href="https://www.csswoman.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=csswoman.csswoman" alt="Profile visitor badge" />
 </p>
